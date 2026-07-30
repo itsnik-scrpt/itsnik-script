@@ -1,24 +1,87 @@
-# Ny1ko
+<h1 data-importer="text" align="center">Hi, i'm Ny1ko.</h1>
 
-**Game Developer • Minecraft Modder • UI/UX Designer**  
-[ny1ko.me](https://www.ny1ko.me) • [GitHub](https://github.com/itsnik-scrpt) • [Modrinth](https://modrinth.com/organization/scriptworld)
+###
 
----
+<img data-importer="image" align="left" height="343" src="https://cdn.jumpshare.com/preview/Je1TyKy8xrWgsce1NHgFk7U7HNrXBJz3auc76wHu9rX3KVqPlv86Y7ez1pZYDiOBBEr0g4QR6BF5gkksxbLb5xwmqhrpxiHZ91byXlE7q2g"  />
 
-### About
+###
 
-I build standalone game mechanics, craft custom Minecraft mods/scripts, and design modern interfaces for gaming communities. My work bridges low-level backend logic with clean, user-centric frontend design.
+<h3 data-importer="text" align="center">I build standalone game mechanics, craft custom Minecraft mods/scripts, and design modern interfaces for gaming communities. My work bridges low-level backend logic with clean, user-centric frontend design.</h3>
 
-* **Game Dev & Modding:** Java (Fabric/Forge), C#, custom server mechanics, and performance modpacks (*PvPPerfected*).
-* **UI/UX & Web:** Figma design systems, React, Next.js, and responsive frontend architecture.
-* **Backend & Tooling:** Node.js, PostgreSQL, Docker, and Linux shell automation (`itsnik-script`).
+###
 
----
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
+</div>
 
-### Stack
+###
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,react,next,figma,tailwind,nodejs,postgres,docker,git&theme=dark" alt="Tech Stack" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://discord.com/users/1362812211151765555" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=023020&logoColor=lightgreen&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
   </a>
-</p>
+  <a href="https://x.com/aKidCalledNiko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=023020&logoColor=light%20green&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
+  </a>
+</div>
+
+###
