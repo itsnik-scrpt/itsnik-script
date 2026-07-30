@@ -65,9 +65,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsnik-scrpt/itsnik-scrpt/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-</picture>
-
 <div align="center" style="margin-top: 20px;"></div>
 
 
