@@ -1,37 +1,24 @@
-<div align="center">
+# Ny1ko
 
-<!-- Animated Header Slab -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:0d1117&amp;height=220&amp;section=header&amp;text=NY1KO&amp;fontSize=85&amp;fontAlignY=38&amp;fontFamily=Trebuchet%20MS" width="100%" />
+**Game Developer • Minecraft Modder • UI/UX Designer**  
+[ny1ko.me](https://www.ny1ko.me) • [GitHub](https://github.com/itsnik-scrpt) • [Modrinth](https://modrinth.com/organization/scriptworld)
 
-<!-- Live Dynamic Typing Vector Header -->
-<a href="https://www.ny1ko.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Game+Developer+%E2%80%A2+Minecraft+Modder;UI%2FUX+Architect+%E2%80%A2+Full-Stack+Engineer;Community+Tools+%26+Automation+Creator" alt="Typing Header" />
-</a>
+---
 
-<br />
+### About
 
-<!-- Action Badges -->
-<a href="https://www.ny1ko.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ny1ko.me-161b22?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58A6FF" />
-</a>
-<a href="https://modrinth.com/organization/scriptworld">
-  <img src="https://img.shields.io/badge/MODRINTH-ScriptWorld-161b22?style=for-the-badge&amp;logo=modrinth&amp;logoColor=00AF5C" />
-</a>
-<a href="https://github.com/itsnik-scrpt">
-  <img src="https://img.shields.io/badge/GITHUB-itsnik--scrpt-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
+I build standalone game mechanics, craft custom Minecraft mods/scripts, and design modern interfaces for gaming communities. My work bridges low-level backend logic with clean, user-centric frontend design.
 
-</div>
+* **Game Dev & Modding:** Java (Fabric/Forge), C#, custom server mechanics, and performance modpacks (*PvPPerfected*).
+* **UI/UX & Web:** Figma design systems, React, Next.js, and responsive frontend architecture.
+* **Backend & Tooling:** Node.js, PostgreSQL, Docker, and Linux shell automation (`itsnik-script`).
 
-<br />
+---
 
-<!-- Section 1: Terminal Overview HUD -->
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:161b22,100:0d1117&amp;height=40&amp;text=SYSTEM%20OVERVIEW&amp;fontSize=18&amp;fontAlign=5&amp;fontAlignY=55&amp;fontFamily=Trebuchet%20MS" width="100%" />
+### Stack
 
-<br />
-
-```samp
-> IDENTIFIER   : Ny1ko (itsnik-scrpt)
-> DOMAIN       : [https://www.ny1ko.me](https://www.ny1ko.me)
-> DISCIPLINE   : Game Development | Minecraft Modding | UI/UX Design | Full-Stack
-> ARCHITECTURE : Performant backends, clean design systems, and gaming community tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,react,next,figma,tailwind,nodejs,postgres,docker,git&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
