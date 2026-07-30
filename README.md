@@ -1,26 +1,23 @@
 <div align="center">
 
-<!-- Styled Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Ny1ko&fontSize=80&fontAlignY=35&desc=Game%20Dev%20%E2%80%A2%20Modder%20%E2%80%A2%20UI/UX%20Designer&descAlignY=62&descScale=18" width="100%" />
+<!-- Main Animated Header Slab with Custom Font -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=230&section=header&text=NY1KO&fontSize=95&fontAlignY=38&fontFamily=Righteous&desc=Game%20Dev%20%E2%80%A2%20Modder%20%E2%80%A2%20UI/UX%20Designer&descAlignY=65&descScale=18" width="100%" />
 
-### Game Developer • Minecraft Modder • Full-Stack & UI/UX Designer
-
-🌐 **Official Site:** [ny1ko.me](https://www.ny1ko.me)
+[![Website](https://img.shields.io/badge/ny1ko.me-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ny1ko.me)
 
 </div>
 
----
+<br />
 
-### About Me
+<!-- Continuation Slab: About -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=40&text=ABOUT%20ME&fontSize=20&fontAlign=10&fontAlignY=55&fontFamily=Righteous" width="100%" />
 
-I am a game developer, Minecraft modder, and full-stack UI/UX designer. I bridge the gap between technical backends and user-focused frontend design, creating custom game mods, community web tools, and modern interfaces.
+I build standalone game mechanics, custom Minecraft mods/server scripts, and modern user interfaces. My work focuses on bridging technical backends with sleek, user-focused frontend design.
 
-* **Primary Focus:** Building standalone game mechanics, Minecraft mods/server scripts, and responsive user interfaces.
-* **Portfolio Site:** Access project showcases and design work directly at [ny1ko.me](https://www.ny1ko.me).
+<br />
 
----
-
-### Skills & Technologies
+<!-- Continuation Slab: Tech & Skills -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=40&text=TECH%20%26%20TOOLS&fontSize=20&fontAlign=10&fontAlignY=55&fontFamily=Righteous" width="100%" />
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,14 +25,11 @@ I am a game developer, Minecraft modder, and full-stack UI/UX designer. I bridge
   </a>
 </p>
 
-* **Game Dev & Modding:** Java, C#, Shell Scripting, Modding Frameworks
+* **Game Dev & Modding:** Java, C#, Shell, Minecraft Modding Frameworks
 * **UI/UX & Frontend:** Figma, React, Next.js, Tailwind CSS
 * **Backend & DevOps:** Node.js, PostgreSQL, Docker, Linux Automation
 
----
+<br />
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-ny1ko.me-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ny1ko.me)
-
-</div>
+<!-- Bottom Continuation Wave Slab -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
