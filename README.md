@@ -1,16 +1,17 @@
-# Ny1ko
-
+# Ny1ko (itsnik-scrpt)
 **Game Developer • Minecraft Modder • Full-Stack & UI/UX Designer**
 
-I design intuitive user interfaces, write Minecraft mods and server scripts, and build full-stack web applications for gaming communities. 
+Personal Hub: [ny1ko.me](https://www.ny1ko.me) • GitHub: [itsnik-scrpt](https://github.com/itsnik-scrpt)
+
+I build standalone games, craft custom Minecraft mods/scripts, and design modern web interfaces for gaming communities.
 
 ---
 
-### Focus & Specializations
+### Specializations
 
-* **Game Modding & Utilities:** Developing optimized Minecraft mods, modpacks, and server scripts under [ScriptWorld](https://modrinth.com/organization/scriptworld).
-* **UI/UX & Frontend Design:** Crafting clean, responsive user interfaces and web applications using modern design systems and Figma.
-* **Backend & Scripting:** Building API backends, automation scripts, and server infrastructure for community platforms.
+* **Game Development & Modding:** Building optimized Minecraft mods, modpacks (like PvPPerfected), and server scripts under [ScriptWorld](https://modrinth.com/organization/scriptworld).
+* **Full-Stack & UI/UX:** Designing clean, user-focused web dashboards, community platforms, and design systems using Figma and React/Next.js.
+* **Scripting & Utilities:** Writing automation scripts, dev environment tooling, and utility apps.
 
 ---
 
@@ -18,35 +19,35 @@ I design intuitive user interfaces, write Minecraft mods and server scripts, and
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,react,next,figma,tailwind,nodejs,postgres,docker,git&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,react,next,figma,tailwind,nodejs,postgres,docker,git,bash&theme=dark" alt="Ny1ko Tech Stack" />
   </a>
 </p>
 
-* **Languages & Modding:** Java, TypeScript, JavaScript, C#, Shell
-* **Design & Frontend:** Figma, React, Next.js, Tailwind CSS, UI/UX Prototyping
-* **Backend & Infrastructure:** Node.js, PostgreSQL, Docker, Linux Scripting
+* **Languages & Engines:** Java, TypeScript, JavaScript, C#, Shell, Unity/Engine Tech
+* **Design & Frontend:** Figma, React, Next.js, Tailwind CSS, UI/UX Systems
+* **Backend & DevOps:** Node.js, PostgreSQL, Docker, Linux Automation
 
 ---
 
-### Featured Repositories & Projects
+### Featured Projects & Platforms
 
-| Project / Repository | Focus | Description | Stack / Platform |
+| Project / Link | Category | Description | Tech / Stack |
 | :--- | :--- | :--- | :--- |
-| **[itsnik-script](https://github.com/itsnik-scrpt/itsnik-script)** | Scripts & Automation | Core repository for utility scripts, automation tools, and dev environment setups. | `Shell` `TypeScript` `Node.js` |
-| **[ScriptWorld / PvPPerfected](https://modrinth.com/organization/scriptworld)** | Game Modding | Performance-tuned Minecraft modpacks and tweaks built for fast, smooth gameplay. | `Java` `Modrinth` `Fabric/Forge` |
-| **[Community App Project](https://github.com/itsnik-scrpt)** | Full-Stack / UI | Web dashboard and UI interfaces designed for game server and community management. | `React` `Tailwind` `Figma` |
+| **[ny1ko.me](https://www.ny1ko.me)** | Portfolio Hub | Official portfolio website showcasing full-stack projects, design work, and game tools. | `Web` `UI/UX` |
+| **[itsnik-script](https://github.com/itsnik-scrpt/itsnik-script)** | Repository | Core repository for utility scripts, automation tools, and developer setup scripts. | `Shell` `TypeScript` |
+| **[ScriptWorld / PvPPerfected](https://modrinth.com/organization/scriptworld)** | Game Modding | Performance-focused Minecraft mods and modpacks tuned for competitive play. | `Java` `Modrinth` |
 
 ---
 
 ### Platforms & Links
 
+[![Website](https://img.shields.io/badge/Website-ny1ko.me-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ny1ko.me)
 [![Modrinth](https://img.shields.io/badge/Modrinth-ScriptWorld-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/scriptworld)
 [![GitHub](https://img.shields.io/badge/GitHub-itsnik--scrpt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnik-scrpt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
-### Metrics & Activity
+### GitHub Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=itsnik-scrpt&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
