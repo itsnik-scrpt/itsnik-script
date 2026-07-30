@@ -1,56 +1,54 @@
-# Hey, I'm Ny1ko
- 
-**Game Dev • Modder • Full-Stack & UI/UX Designer**
+# Ny1ko
 
-I build standalone games, create Minecraft mods, design intuitive user interfaces, and craft web tools for gaming communities. Passionate about great game feel and clean frontend design.
+**Game Developer • Minecraft Modder • Full-Stack & UI/UX Designer**
 
----
-
-### What I Do
-
-- **Game Development:** Crafting systems, mechanics, and UI in Unity / Unreal Engine / Godot.
-- **Modding & Tools:** Writing Minecraft mods, custom game plugins, and community utility apps.
-- **UI/UX Design:** Wireframing, prototyping, and building web/game interfaces focused on user experience.
-- **Full-Stack Web:** Building fast backends and modern frontends for community platforms and side projects.
+I design intuitive user interfaces, write Minecraft mods and server scripts, and build full-stack web applications for gaming communities. 
 
 ---
 
-### Tech & Creative Stack
+### Focus & Specializations
+
+* **Game Modding & Utilities:** Developing optimized Minecraft mods, modpacks, and server scripts under [ScriptWorld](https://modrinth.com/organization/scriptworld).
+* **UI/UX & Frontend Design:** Crafting clean, responsive user interfaces and web applications using modern design systems and Figma.
+* **Backend & Scripting:** Building API backends, automation scripts, and server infrastructure for community platforms.
+
+---
+
+### Tech & Design Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,unity,godot,figma,blender,ts,react,nodejs,postgres,git&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,react,next,figma,tailwind,nodejs,postgres,docker,git&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
-* **Languages & Engines:** C#, C++, Java, TypeScript, Unity, Unreal Engine, Godot
-* **Design & 3D:** Figma, Blender, Photoshop
-* **Web & Backend:** React, Next.js, Node.js, PostgreSQL, Tailwind CSS
+* **Languages & Modding:** Java, TypeScript, JavaScript, C#, Shell
+* **Design & Frontend:** Figma, React, Next.js, Tailwind CSS, UI/UX Prototyping
+* **Backend & Infrastructure:** Node.js, PostgreSQL, Docker, Linux Scripting
 
 ---
 
-### Featured Work & Mods
+### Featured Repositories & Projects
 
-| Project | Category | Description | Stack / Platform |
+| Project / Repository | Focus | Description | Stack / Platform |
 | :--- | :--- | :--- | :--- |
-| **[Project / Game Title](https://github.com/YOUR_USERNAME/repo)** | Game | A brief summary of your game's concept or mechanic. | `Unity` `C#` `itch.io` |
-| **[Minecraft Mod Name](https://github.com/YOUR_USERNAME/repo)** | Modding | Custom content, mechanic, or utility mod for Minecraft. | `Java` `Forge/Fabric` |
-| **[Community App Name](https://github.com/YOUR_USERNAME/repo)** | Web / UI | Web dashboard or bot interface designed for game communities. | `React` `Node.js` `Figma` |
+| **[itsnik-script](https://github.com/itsnik-scrpt/itsnik-script)** | Scripts & Automation | Core repository for utility scripts, automation tools, and dev environment setups. | `Shell` `TypeScript` `Node.js` |
+| **[ScriptWorld / PvPPerfected](https://modrinth.com/organization/scriptworld)** | Game Modding | Performance-tuned Minecraft modpacks and tweaks built for fast, smooth gameplay. | `Java` `Modrinth` `Fabric/Forge` |
+| **[Community App Project](https://github.com/itsnik-scrpt)** | Full-Stack / UI | Web dashboard and UI interfaces designed for game server and community management. | `React` `Tailwind` `Figma` |
 
 ---
 
-### Where to Find My Work
+### Platforms & Links
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://yourusername.itch.io)
-[![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://curseforge.com/members/yourusername)
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Modrinth](https://img.shields.io/badge/Modrinth-ScriptWorld-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/scriptworld)
+[![GitHub](https://img.shields.io/badge/GitHub-itsnik--scrpt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsnik-scrpt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
-### GitHub Stats
+### Metrics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsnik-scrpt&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnik-scrpt&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
